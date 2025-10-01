@@ -1,0 +1,24 @@
+# Backend Framework & Web Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Frontend Framework
+streamlit
+requests
+
+# Core AI/ML Libraries
+torch
+transformers
+sentence-transformers
+
+# Vector Database
+chromadb
+
+# Document Loading & Processing
+PyMuPDF
+langchain-text-splitters
+
+# Local LLM Inference
+llama-cpp-python
+huggingface-hub
